@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
+  background-color: #000066;
   font-family: 'Oxygen', sans-serif;
  width: 100%;
  border: 3px solid black;
@@ -14,7 +14,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color:   #f6b319;
+  background-color: #e6e6e6;
   border-radius: 2;
   border-bottom:  3px solid black;
 }
@@ -57,7 +57,7 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color:   #61122f;
+  color:   #000066;
   text-align: center;
 }
 #nav-list a:hover {
@@ -90,7 +90,7 @@ body {
 
 #particles-js
 {
-  background-color:#61122f;
+  background-color:#000066;
   height:800px;
   margin: 0;
   padding: 0;
